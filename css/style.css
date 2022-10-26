@@ -36,6 +36,7 @@ section{
     box-shadow:  0px 0px 10px #fff;
     background-color: #fff;
 }
+
 section h2{
     margin: 20px 0;
     width: 90%;
@@ -54,4 +55,7 @@ section > div{
     border-radius: 50px;
     margin-top: -80PX;
     
+}
+.pres{
+    border-bottom: 2px dashed #ccc;
 }
